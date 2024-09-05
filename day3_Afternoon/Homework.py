@@ -252,7 +252,6 @@ filtered_high_tissue = high_tissue * mask_reshaped
 # Find the indices of gene-tissue pairs where the value is 1
 gene_indices, tissue_indices = np.where(filtered_high_tissue == 1)
 
-# Step 4: Print the gene-tissue pairs
 print("Gene-Tissue pairs with high expression and specificity:")
 for gene_idx, tissue_idx in zip(gene_indices, tissue_indices):
     gene_name = gene_names[gene_idx]
