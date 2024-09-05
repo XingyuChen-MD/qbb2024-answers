@@ -5,14 +5,14 @@ import sys
 my_file  = open(sys.argv[1])
 
 for line in my_file:
-    if "##" in line:  ## skip the description lines 
+    if "##" in line: 
         continue
     i = line.split("\t")
     chr = i[0]
     start = i[3]
     stop = i[4]
-    info = i[8] # the last colume has id, name, type... info
-    info_list = info.split(";") # split all info make it list
+    info = i[8] 
+    info_list = info.split(";") 
     
     x = 0
     gene_name = ""
