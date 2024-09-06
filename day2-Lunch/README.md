@@ -70,6 +70,12 @@ cut -f1 hg38-gene-metadata-homologs.tsv | sort | uniq > unique_homologs.txt
 cut -f7 hg38-gene-metadata-feature.tsv | uniq -c > biotype_counts.txt
 ```
 
+#Q1B
+
+cut -f7 hg38-gene-metadata-feature.tsv |sort | uniq -c| grep "protein_coding"
+## RE: 19618 protein_coding genes
+#Q1C: - biotype I want to learn: protein_coding genes, because protein-coding genes produce proteins that carry out essential functions in cells and tissues. Mutations or dysregulation in these genes can directly impact protein function, leading to various diseases.
+
 ## Which ensembl_gene_id in hg38-gene-metadata-go.tsv has the most go_ids? Create a new file that only contains rows corresponding to that gene_id, sorting the rows according to the name_1006 column. Describe what you think this gene does based on the GO terms.
 ```
 (qb24) cmdb@QuantBio-26 Day2Morning % cut -f1 hg38-gene-metadata-go.tsv | uniq -c | sort | > ensembl_gene_id_counts.txt
