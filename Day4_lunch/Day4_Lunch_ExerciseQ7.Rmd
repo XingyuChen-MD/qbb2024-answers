@@ -1,0 +1,80 @@
+---
+title: "Day4Question7"
+output: html_document
+date: "2024-09-10"
+
+Q7. (formerly 8) Finally, you can visualize how variable each gene’s expression is. Download the data, load it into R, and create a violin plot of expression levels broken down by gene (ggplot2’s geom_violin()).
+For categories, create a combination of tissue names and gene IDs (dplyr::mutate(Tissue_Gene=paste0(Tissue, " ", GeneID)))
+You will need to log-transform your data with a psuedo-count of one (you can use dplyr::mutate for this step as well)
+Switch the axes for the violin plot so the categories are on the y-axis (coord_flip())
+Make sure to label your axes
+
+Given the tissue specificity and high expression level of these genes, are you surprised by the results?
+What tissue-specific differences do you see in expression variability? Speculate on why certain tissues show low variability while others show much higher expression variability.
+
+
+---
+```{r setup, include=FALSE}
+# Load required libraries
+library(ggplot2)
+library(dplyr)
+
+# Load the data
+data <- read.table("data.csv", header=TRUE, sep=",")
+
+data <-  data %>%
+  mutate(across(starts_with("Expr"), ~ as.numeric(gsub("[^0-9.]", "", .))))
+# Log-transform the data with a pseudo-count of 1
+# Convert columns starting with "Expr" to numeric
+data <- data %>%
+  mutate(across(starts_with("Expr"), as.numeric))
+
+data <- data %>%
+  mutate(across(starts_with("Expr"), ~ log(. + 1)))
+
+# Create a combined category of tissue and gene ID
+data <- data %>%
+  mutate(Tissue_Gene = paste(Tissue, GeneID))
+
+###Plot
+ggplot(data, aes(x = Tissue_Gene, y = Expr, fill = Tissue_Gene)) +
+  geom_violin(trim = FALSE, alpha = 0.8, scale = "area") +  # Enhanced clarity with full distribution and area scaling
+  scale_fill_brewer(palette = "Paired") +  # A color palette suitable for journal-quality plots
+  coord_flip() +  # Flipped coordinates for readability
+  labs(
+    x = "Tissue and Gene ID",  # X-axis label
+    y = "Log-transformed Expression Level",  # Y-axis label
+    title = "Distribution of Gene Expression Levels by Tissue and Gene ID"  # Plot title
+  ) +
+  theme_classic() +  # Classic theme for a clean and professional look
+  theme(
+    axis.text.x = element_text(size = 10, angle = 45, hjust = 1),  # Adjust x-axis text size and angle
+    axis.text.y = element_text(size = 10),  # Adjust y-axis text size
+    axis.title = element_text(size = 12),  # Axis title size
+    plot.title = element_text(size = 14, face = "bold"),  # Title size and style
+    legend.title = element_text(size = 10),  # Legend title size
+    legend.text = element_text(size = 8),  # Legend text size
+    legend.position = "none",  # Hide legend if not necessary
+    panel.border = element_rect(colour = "black", fill = NA, size = 0.5)  # Add a border around the plot
+  )
+```
+
+## R Markdown
+Q7 
+Given the tissue specificity and high expression level of these genes, are you surprised by the results?
+What tissue-specific differences do you see in expression variability? Speculate on why certain tissues show low variability while others show much higher expression variability.
+
+```{r cars}
+Tissue Specificity and Expression Levels:
+Pancreas genes show consistently high expression levels compared to other tissues. The clustering of multiple genes from the pancreas around higher expression levels is notable.
+Testis, Stomach, and Small Intestine also display high gene expression, but with less consistency across the specific genes, indicating some variability in gene expression among different genes within the same tissue.
+Variability in Gene Expression:
+Low Variability: Tissues such as pituitary, prostate, and liver show relatively low variability in expression, as indicated by the tight, narrow violin plots. This suggests that gene expression in these tissues is tightly regulated and more consistent across different samples or contexts.
+High Variability: On the other hand, pancreas and stomach tissues show much higher variability, with the violin plots for certain genes showing a wide distribution of expression levels. This suggests a greater diversity in gene expression, which could be due to differential regulation under various physiological conditions, or in response to specific stimuli.
+Speculation on Variability:
+Highly Variable Tissues (Pancreas, Stomach, Small Intestine):
+These tissues are involved in dynamic and highly variable functions, such as enzyme secretion and digestion. The pancreas, in particular, plays roles in both endocrine and exocrine functions, which could account for the variability. High variability may reflect differences in metabolic demands, hormonal regulation, or varying responses to environmental factors like diet.
+Low Variability Tissues (Pituitary, Prostate, Liver):
+These tissues tend to have more specialized and less variable functions. The pituitary is a master regulator of hormonal control, and its gene expression is likely tightly regulated to ensure proper systemic hormonal balance. The liver is involved in detoxification and metabolism, which generally require consistent gene expression to maintain homeostasis.
+Overall, the results are not entirely surprising given the known physiological roles of these tissues. However, the marked variability in the pancreas suggests a complex regulatory environment that might reflect both its dual endocrine and exocrine functions, as well as varying metabolic needs.
+```
