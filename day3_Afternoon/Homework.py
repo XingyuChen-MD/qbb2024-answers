@@ -71,8 +71,11 @@ with open(file_path, 'r') as fs:
 
 # Print the results (for debugging purposes)
 print("Tissue Names:", tissue_names)
-print("Gene IDs:", gene_ids)
-print("Gene Names:", gene_names)
+# Tissue Names: ['Adipose - Visceral (Omentum)', 'Adrenal Gland', 'Artery - Aorta', 'Artery - Coronary', 'Artery - Tibial', 'Bladder', 'Brain - Amygdala', 'Brain - Anterior cingulate cortex (BA24)', 'Brain - Caudate (basal ganglia)', 'Brain - Cerebellar Hemisphere', 'Brain - Cerebellum', 'Brain - Cortex', 'Brain - Frontal Cortex (BA9)', 'Brain - Hippocampus', 'Brain - Hypothalamus', 'Brain - Nucleus accumbens (basal ganglia)', 'Brain - Putamen (basal ganglia)', 'Brain - Spinal cord (cervical c-1)', 'Brain - Substantia nigra', 'Breast - Mammary Tissue', 'Cells - Cultured fibroblasts', 'Cells - EBV-transformed lymphocytes', 'Cervix - Ectocervix', 'Cervix - Endocervix', 'Colon - Sigmoid', 'Colon - Transverse', 'Esophagus - Gastroesophageal Junction', 'Esophagus - Mucosa', 'Esophagus - Muscularis', 'Fallopian Tube', 'Heart - Atrial Appendage', 'Heart - Left Ventricle', 'Kidney - Cortex', 'Kidney - Medulla', 'Liver', 'Lung', 'Minor Salivary Gland', 'Muscle - Skeletal', 'Nerve - Tibial', 'Ovary', 'Pancreas', 'Pituitary', 'Prostate', 'Skin - Not Sun Exposed (Suprapubic)', 'Skin - Sun Exposed (Lower leg)', 'Small Intestine - Terminal Ileum', 'Spleen', 'Stomach', 'Testis', 'Thyroid', 'Uterus', 'Vagina', 'Whole Blood']
+print("Gene IDs:", gene_ids[1:10])
+Gene IDs: ['ENSG00000223972.5', 'ENSG00000227232.5', 'ENSG00000278267.1', 'ENSG00000243485.5', 'ENSG00000237613.2', 'ENSG00000268020.3', 'ENSG00000240361.1', 'ENSG00000186092.4', 'ENSG00000238009.6']print("Gene Names:", gene_names[1:10])
+print("Gene Names:", gene_names[1:10])
+#Gene Names: ['DDX11L1', 'WASH7P', 'MIR6859-1', 'MIR1302-2HG', 'FAM138A', 'OR4G4P', 'OR4G11P', 'OR4F5', 'RP11-34P13.7']
 print("Expression Data:", expression_data[1:10,1:5])
 
 
