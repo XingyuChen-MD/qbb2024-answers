@@ -68,7 +68,7 @@ Based on what you’ve read, modify your code from Step 2.1 to output the edges 
 # Step 2.5
 One possible genome sequence: ATTCATTCATTGA
 
-# Step 2.6: Requirements for Accurate Genome Reconstruction (Simplified)**
+# Step 2.6: Requirements for Accurate Genome Reconstruction
 To correctly piece together the genome sequence:
 
 1.  Make sure that every part of the genome is included in the reads.
