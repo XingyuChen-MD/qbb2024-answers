@@ -1,0 +1,3 @@
+[2024-10-24 23:48:34,432] multiqc.core.file_search                           [INFO   ]  Search path: /Users/cmdb/Desktop/week5-all
+[2024-10-24 23:48:34,974] multiqc.modules.samtools.samtools                  [INFO   ]  Found 1 idxstats reports
+[2024-10-24 23:48:35,008] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 2 reports

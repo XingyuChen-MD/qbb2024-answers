@@ -1,0 +1,391 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	SRX298301	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298301.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298308	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298308.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298299	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298299.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298287	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298287.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298292	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298292.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298307	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298307.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298303	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298303.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298285	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298285.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298289	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298289.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298300	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298300.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298302	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298302.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298286	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298286.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298283	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298283.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298309	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298309.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298306	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298306.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298281	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298281.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298304	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298304.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298282	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298282.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298305	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298305.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298295	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298295.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298290	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298290.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298291	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298291.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298284	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298284.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298294	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298294.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298298	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298298.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298288	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298288.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298293	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298293.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298296	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298296.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298297	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298297.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SRX298280	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/picard/markduplicates/SRX298280.markdup.sorted.MarkDuplicates.metrics.txt
+QualiMap	rna_genome_results	SRX298300	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298300/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298283	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298283/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298281	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298281/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298286	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298286/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298294	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298294/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298287	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298287/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298288	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298288/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298280	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298280/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298284	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298284/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298285	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298285/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298299	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298299/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298289	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298289/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298303	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298303/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298308	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298308/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298297	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298297/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298302	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298302/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298305	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298305/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298291	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298291/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298301	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298301/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298293	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298293/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298304	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298304/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298295	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298295/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298309	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298309/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298306	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298306/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298290	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298290/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298298	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298298/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298292	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298292/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298282	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298282/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298296	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298296/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX298307	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298307/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	SRX298300	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298300/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298283	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298283/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298281	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298281/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298286	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298286/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298294	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298294/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298287	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298287/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298288	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298288/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298280	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298280/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298284	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298284/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298285	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298285/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298299	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298299/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298289	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298289/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298303	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298303/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298308	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298308/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298297	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298297/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298302	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298302/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298305	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298305/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298291	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298291/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298301	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298301/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298293	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298293/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298304	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298304/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298295	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298295/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298309	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298309/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298306	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298306/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298290	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298290/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298298	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298298/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298292	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298292/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298282	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298282/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298296	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298296/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX298307	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/qualimap/SRX298307/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+Samtools	stats	SRX298297	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298297.markdup.sorted.bam.stats
+Samtools	stats	SRX298308	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298308.markdup.sorted.bam.stats
+Samtools	stats	SRX298292	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298292.markdup.sorted.bam.stats
+Samtools	stats	SRX298291	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298291.markdup.sorted.bam.stats
+Samtools	stats	SRX298300	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298300.markdup.sorted.bam.stats
+Samtools	stats	SRX298307	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298307.markdup.sorted.bam.stats
+Samtools	stats	SRX298286	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298286.markdup.sorted.bam.stats
+Samtools	stats	SRX298304	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298304.markdup.sorted.bam.stats
+Samtools	stats	SRX298306	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298306.markdup.sorted.bam.stats
+Samtools	stats	SRX298287	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298287.markdup.sorted.bam.stats
+Samtools	stats	SRX298290	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298290.markdup.sorted.bam.stats
+Samtools	stats	SRX298305	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298305.markdup.sorted.bam.stats
+Samtools	stats	SRX298298	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298298.markdup.sorted.bam.stats
+Samtools	stats	SRX298280	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298280.markdup.sorted.bam.stats
+Samtools	stats	SRX298288	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298288.markdup.sorted.bam.stats
+Samtools	stats	SRX298285	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298285.markdup.sorted.bam.stats
+Samtools	stats	SRX298301	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298301.markdup.sorted.bam.stats
+Samtools	stats	SRX298289	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298289.markdup.sorted.bam.stats
+Samtools	stats	SRX298294	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298294.markdup.sorted.bam.stats
+Samtools	stats	SRX298282	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298282.markdup.sorted.bam.stats
+Samtools	stats	SRX298302	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298302.markdup.sorted.bam.stats
+Samtools	stats	SRX298299	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298299.markdup.sorted.bam.stats
+Samtools	stats	SRX298309	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298309.markdup.sorted.bam.stats
+Samtools	stats	SRX298303	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298303.markdup.sorted.bam.stats
+Samtools	stats	SRX298293	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298293.markdup.sorted.bam.stats
+Samtools	stats	SRX298295	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298295.markdup.sorted.bam.stats
+Samtools	stats	SRX298283	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298283.markdup.sorted.bam.stats
+Samtools	stats	SRX298281	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298281.markdup.sorted.bam.stats
+Samtools	stats	SRX298284	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298284.markdup.sorted.bam.stats
+Samtools	stats	SRX298296	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/stats/SRX298296.markdup.sorted.bam.stats
+Samtools	flagstat	SRX298285	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298285.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298282	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298282.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298291	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298291.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298292	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298292.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298297	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298297.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298305	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298305.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298293	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298293.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298295	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298295.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298283	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298283.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298299	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298299.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298308	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298308.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298281	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298281.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298300	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298300.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298289	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298289.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298303	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298303.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298298	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298298.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298284	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298284.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298287	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298287.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298306	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298306.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298286	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298286.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298304	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298304.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298307	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298307.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298301	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298301.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298309	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298309.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298294	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298294.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298290	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298290.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298296	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298296.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298302	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298302.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298280	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298280.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX298288	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/flagstat/SRX298288.markdup.sorted.bam.flagstat
+Samtools	idxstats	SRX298308	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298308.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298309	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298309.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298292	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298292.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298288	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298288.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298306	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298306.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298293	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298293.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298294	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298294.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298295	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298295.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298305	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298305.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298298	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298298.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298303	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298303.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298291	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298291.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298287	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298287.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298284	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298284.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298281	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298281.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298290	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298290.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298302	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298302.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298296	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298296.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298301	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298301.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298286	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298286.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298282	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298282.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298307	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298307.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298299	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298299.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298304	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298304.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298297	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298297.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298285	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298285.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298300	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298300.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298289	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298289.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298280	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298280.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX298283	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/samtools/idxstats/SRX298283.markdup.sorted.bam.idxstats
+STAR	SummaryLog	SRX298291	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298291.Log.final.out
+STAR	SummaryLog	SRX298296	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298296.Log.final.out
+STAR	SummaryLog	SRX298280	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298280.Log.final.out
+STAR	SummaryLog	SRX298282	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298282.Log.final.out
+STAR	SummaryLog	SRX298295	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298295.Log.final.out
+STAR	SummaryLog	SRX298286	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298286.Log.final.out
+STAR	SummaryLog	SRX298292	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298292.Log.final.out
+STAR	SummaryLog	SRX298300	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298300.Log.final.out
+STAR	SummaryLog	SRX298287	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298287.Log.final.out
+STAR	SummaryLog	SRX298304	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298304.Log.final.out
+STAR	SummaryLog	SRX298307	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298307.Log.final.out
+STAR	SummaryLog	SRX298293	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298293.Log.final.out
+STAR	SummaryLog	SRX298299	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298299.Log.final.out
+STAR	SummaryLog	SRX298302	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298302.Log.final.out
+STAR	SummaryLog	SRX298290	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298290.Log.final.out
+STAR	SummaryLog	SRX298297	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298297.Log.final.out
+STAR	SummaryLog	SRX298301	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298301.Log.final.out
+STAR	SummaryLog	SRX298303	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298303.Log.final.out
+STAR	SummaryLog	SRX298284	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298284.Log.final.out
+STAR	SummaryLog	SRX298289	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298289.Log.final.out
+STAR	SummaryLog	SRX298283	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298283.Log.final.out
+STAR	SummaryLog	SRX298294	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298294.Log.final.out
+STAR	SummaryLog	SRX298308	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298308.Log.final.out
+STAR	SummaryLog	SRX298298	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298298.Log.final.out
+STAR	SummaryLog	SRX298309	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298309.Log.final.out
+STAR	SummaryLog	SRX298306	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298306.Log.final.out
+STAR	SummaryLog	SRX298285	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298285.Log.final.out
+STAR	SummaryLog	SRX298288	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298288.Log.final.out
+STAR	SummaryLog	SRX298281	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298281.Log.final.out
+STAR	SummaryLog	SRX298305	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/star/SRX298305.Log.final.out
+FastQC (raw)	all_sections	SRX298304_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298304_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298295_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298295_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298281_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298281_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298282_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298282_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298307_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298307_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298305_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298305_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298300_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298300_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298301_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298301_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298288_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298288_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298293_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298293_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298282_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298282_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298308_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298308_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298307_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298307_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298303_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298303_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298292_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298292_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298308_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298308_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298302_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298302_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298296_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298296_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298293_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298293_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298309_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298309_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298295_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298295_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298294_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298294_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298302_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298302_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298297_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298297_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298281_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298281_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298285_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298285_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298283_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298283_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298290_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298290_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298309_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298309_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298288_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298288_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298284_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298284_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298304_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298304_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298294_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298294_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298303_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298303_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298292_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298292_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298287_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298287_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298297_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298297_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298298_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298298_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298300_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298300_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298284_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298284_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298305_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298305_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298280_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298280_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298289_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298289_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298289_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298289_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298291_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298291_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298285_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298285_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298299_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298299_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298296_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298296_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298301_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298301_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298291_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298291_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298287_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298287_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298299_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298299_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298280_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298280_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298283_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298283_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298306_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298306_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298286_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298286_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298286_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298286_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298298_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298298_1_fastqc.zip
+FastQC (raw)	all_sections	SRX298290_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298290_2_fastqc.zip
+FastQC (raw)	all_sections	SRX298306_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/raw/SRX298306_2_fastqc.zip
+Cutadapt	all_sections	SRX298280_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298280_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298280_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298280_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298297_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298297_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298306_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298306_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298296_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298296_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298288_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298288_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298288_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298288_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298295_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298295_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298291_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298291_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298299_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298299_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298292_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298292_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298309_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298309_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298284_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298284_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298293_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298293_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298301_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298301_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298290_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298290_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298301_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298301_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298306_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298306_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298309_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298309_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298298_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298298_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298291_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298291_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298308_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298308_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298290_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298290_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298304_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298304_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298296_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298296_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298286_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298286_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298287_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298287_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298281_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298281_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298285_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298285_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298305_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298305_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298308_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298308_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298289_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298289_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298300_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298300_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298284_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298284_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298283_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298283_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298297_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298297_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298300_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298300_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298293_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298293_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298299_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298299_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298302_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298302_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298292_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298292_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298282_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298282_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298283_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298283_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298289_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298289_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298287_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298287_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298286_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298286_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298295_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298295_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298285_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298285_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298303_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298303_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298282_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298282_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298307_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298307_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298303_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298303_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298294_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298294_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298281_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298281_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298294_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298294_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298307_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298307_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298298_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298298_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298305_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298305_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298302_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298302_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SRX298304_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/trim_log/SRX298304_2.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	SRX298281_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298281_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298280_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298280_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298301_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298301_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298298_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298298_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298300_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298300_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298289_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298289_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298301_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298301_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298303_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298303_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298297_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298297_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298303_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298303_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298306_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298306_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298304_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298304_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298296_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298296_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298296_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298296_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298294_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298294_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298308_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298308_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298289_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298289_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298285_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298285_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298294_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298294_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298305_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298305_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298292_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298292_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298286_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298286_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298284_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298284_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298290_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298290_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298309_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298309_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298282_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298282_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298290_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298290_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298295_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298295_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298293_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298293_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298284_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298284_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298288_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298288_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298295_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298295_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298287_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298287_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298297_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298297_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298292_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298292_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298307_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298307_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298293_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298293_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298307_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298307_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298308_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298308_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298299_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298299_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298305_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298305_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298282_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298282_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298291_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298291_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298286_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298286_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298302_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298302_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298281_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298281_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298300_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298300_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298283_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298283_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298285_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298285_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298288_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298288_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298298_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298298_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298280_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298280_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298302_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298302_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298309_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298309_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298299_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298299_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298306_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298306_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298287_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298287_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298304_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298304_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298283_1	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298283_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX298291_2	/scratch4/eande106/Mike/12/a664a65ab509c2728bd241a4b9919a/fastqc/trim/SRX298291_2_val_2_fastqc.zip

@@ -1,0 +1,4 @@
+Module	Section	Sample Name	Source
+Samtools	idxstats	mqc_samtools-idxstats-mapped-reads-plot_Raw_Counts	/Users/cmdb/Desktop/week5-all/multiqc/multiqc_report_data/mqc_samtools-idxstats-mapped-reads-plot_Raw_Counts.txt
+FastQC	all_sections	sample_1	/Users/cmdb/Desktop/week5-all/sample_1_fastqc/fastqc_data.txt
+FastQC	all_sections	sample_2	/Users/cmdb/Desktop/week5-all/sample_2_fastqc.zip
